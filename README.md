@@ -5,7 +5,7 @@ Repositório criado com o objetivo de praticar com os desafios que foram propost
 | Nº  | Desafio            | Repositório                                                                  | Visitar o projeto                                                         |
 | --- | ------------------ | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | 1   | Blog da Codelândia | <a href="https://github.com/Flaviane-Brum/codelandia-blog">Clique aqui 🗃</a> | <a href="https://flaviane-codelandia-blog.vercel.app/">Clique aqui ✅</a> |
-| 2   | JordanShoes        | <a href="">Em breve 🚧</a>                                                   | <a href="">Em breve 🚧</a>                                                |
+| 2   | JordanShoes        | <a href="https://github.com/Flaviane-Brum/jordans-shoes">Clique aqui🗃</a>                                                   | <a href="https://jordans-shoes.vercel.app/">Clique aqui✅</a>                                                |
 | 3   | One Page           | <a href="">Em breve 🚧</a>                                                   | <a href="">Em breve 🚧</a>                                                |
 | 4   | Login              | <a href="">Em breve 🚧</a>                                                   | <a href="">Em breve 🚧</a>                                                |
 | 5   | Studio Ghibli      | <a href="">Em breve 🚧</a>                                                   | <a href="">Em breve 🚧</a>                                                |
